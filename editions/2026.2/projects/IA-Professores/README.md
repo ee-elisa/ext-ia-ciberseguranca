@@ -115,7 +115,7 @@ O público e o formato geral da atividade já estão definidos. A primeira aplic
 ## Plano de Desenvolvimento
 
 | Entregável / Resultado | Tarefa | Situação |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | Realizado |
 | Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | Realizado |
 | Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | Realizado |
