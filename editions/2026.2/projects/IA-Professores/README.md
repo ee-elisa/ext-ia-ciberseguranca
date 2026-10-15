@@ -114,17 +114,17 @@ O público e o formato geral da atividade já estão definidos. A primeira aplic
 
 ## Plano de Desenvolvimento
 
-| Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
+| Entregável / Resultado | Tarefa | Situação |
 | --- | --- | --- | --- | --- |
-| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | a definir | 10/10 | Em andamento |
-| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | a definir | 10/10 | Não iniciada |
-| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | a definir | 10/10 | Não iniciada |
-| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | a definir | 10/10 | Não iniciada |
-| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados | a definir | 10/10 | Não iniciada |
-| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | a definir | 10/10 | Não iniciada |
-| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | a definir | 10/10 | Em andamento |
-| Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Todos | 10/10| Não iniciada |
-| Primeira aplicação | Realizar palestra e registrar as evidências previstas | Todos | 10/10 | Não iniciada |
+| Conteúdo da palestra definido | Selecionar conceitos, aplicações, limitações e cuidados que serão apresentados | Realizado |
+| Apresentação de slides | Elaborar apresentação compatível com palestra de até 30 minutos | Realizado |
+| Exemplos de utilização de IA | Produzir e selecionar exemplos de prompts e respostas relacionados à profissão docente | Realizado |
+| Exemplos de limitações | Selecionar respostas com erros, alucinações ou inadequações que possam ser demonstradas durante a palestra | Realizado|
+| Material digital de apoio | Produzir material resumido com usos possíveis, boas práticas e cuidados |Realizado|
+| Instrumento de avaliação | Elaborar questionário breve inicial/final ou formulário de avaliação | Realizado |
+| Articulação com instituição | Contatar escola ou instituição de formação docente e definir primeira aplicação | Realizado |
+| Teste da apresentação | Realizar ensaio cronometrado e revisar clareza, conteúdo e duração | Realizado |
+| Primeira aplicação | Realizar palestra e registrar as evidências previstas | Realizado |
 
 ### Dependências Críticas
 * A primeira aplicação depende da confirmação de uma escola pública ou instituição parceira e da definição de data e público.
